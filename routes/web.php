@@ -4,7 +4,6 @@ use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\backend\AdminController;
 use App\Http\Controllers\backend\YonetimController;
 use App\Http\Controllers\backend\TibbiKadroController;
-
 /*
 |--------------------------------------------------------------------------
 | Web Routes

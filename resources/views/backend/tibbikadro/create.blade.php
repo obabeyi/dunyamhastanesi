@@ -2,6 +2,7 @@
 
 @section('content')
 <div id="panel-1" class="panel">
+
     <div class="panel-hdr">
         <h2>
             Doktor Ekleme <span class="fw-300"><i>Alanı</i></span>
